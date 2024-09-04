@@ -6,7 +6,7 @@
  |_____||_| |_|\__,_|  |____/|_|  \__,_||_|_| |_|  |_|\___/ \___/|_|___/
 
 ```
-# Obsidian Vault Management Tools
+# 2nd Brain Tools
 
 This repository contains a collection of Python scripts designed to help manage and analyse Obsidian vaults. These tools aim to enhance the organisation, connectivity, and metadata of notes, helping to build a more robust "second brain".
 
