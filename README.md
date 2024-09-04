@@ -1,3 +1,11 @@
+```
+  ____             _    ____             _        _____           _     
+ |___ \  _ __   __| |  | __ ) _ __ __ _ (_)_ __  |_   _|__   ___ | |___ 
+   __) || '_ \ / _` |  |  _ \| '__/ _` || | '_ \   | |/ _ \ / _ \| / __|
+  / __/ | | | | (_| |  | |_) | | | (_| || | | | |  | | (_) | (_) | \__ \
+ |_____||_| |_|\__,_|  |____/|_|  \__,_||_|_| |_|  |_|\___/ \___/|_|___/
+
+```
 # Obsidian Vault Management Tools
 
 This repository contains a collection of Python scripts designed to help manage and analyse Obsidian vaults. These tools aim to enhance the organisation, connectivity, and metadata of notes, helping to build a more robust "second brain".
@@ -5,12 +13,12 @@ This repository contains a collection of Python scripts designed to help manage 
 ## Current Features
 
 ### 1. Vault Inventory Script
-- **File**: `obsidian_inventory.py`
-- **Function**: Creates a comprehensive inventory of all notes in the Obsidian vault.
+- **File**: `obsidian-inventory.py`
+- **Function**: Creates a simple inventory of all notes in the Obsidian vault.
 - **Output**: Provides a summary of total notes, word count, and unique tags.
 
 ### 2. Metadata Note Generator
-- **File**: `obsidian_metadata_generator.py`
+- **File**: `obsidian-metadata-generator.py`
 - **Function**: Generates a metadata note summarising the vault's contents and structure.
 - **Output**: Creates or updates a 'Vault Metadata.md' file in the vault with the following information:
   - Total notes and words
